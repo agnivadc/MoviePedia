@@ -1,16 +1,11 @@
 # moviepedia
 
-A new Flutter project for movie details
+A new Flutter project for movie details...
 
-## Getting Started
+<img width="320" alt="Screenshot 2023-01-10 at 2 58 54 PM" src="https://user-images.githubusercontent.com/75575639/211514126-a02c43a2-dfca-4b0a-a145-5b3ceb949e9d.png">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Uploading Screenshot 2023-01-10 at 2.59.03 PM.png…]()
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
